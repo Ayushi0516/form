@@ -1,0 +1,42 @@
+{
+    "form":[
+        {
+            "id":1,
+            "name":"rajesh",
+            "address":"radhe vihar",
+            "salary":2000,
+            "age":23,
+            "department":"IT",
+            "status":"male"
+         },
+         
+            {
+                "id":2,
+                "name":"mahesh",
+                "address":"charbhag ",
+                "salary":6000,
+                "age":26,
+                "department":"HR",
+                "status":"male"
+               
+             },
+             {
+                 "id":3,
+                "name":"manju",
+                "address":"sheetal vihar",
+                "salary":8000,
+                "age":21,
+                "department":"HR",
+                "status":"female"
+             },
+             {
+                 "id":4,
+                "name":"rani",
+                "address":"kapoorthala",
+                "salary":5000,
+                "age":29,
+                "department":"IT",
+                "status":"female"
+             }
+    ]
+}
